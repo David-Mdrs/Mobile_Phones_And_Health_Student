@@ -1,0 +1,101 @@
+Age,Sex,Frequency of Use for Study,Activities,Useful for Studying,Educational Apps,Hour Uses,Performance Impact,Distraction ,Attention Span,Useful Resources,Health Risks,Beneficial subject,Symptoms of use,Frequency of Symptoms,Health Precautions,Health Rating
+21-25,Male,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Agree,During Exams,Yes,Camera,Yes,Accounting,Headache,Never,Using Blue light filter,Excellent
+21-25,Male,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Neutral,During Exams,Yes,Notes Taking App,Yes,Browsing Material,All of these,Sometimes,Taking Break during prolonged use,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Strongly agree,Not Distracting,No,Camera,Yes,Browsing Material,All of these,Sometimes,None of Above,Excellent
+21-25,Male,Frequently,All of these,Yes,Educational Videos,2-4 hours,Strongly agree,During Class Lectures,No,Internet Access,Only Partially,Reasarch,,Never,Limiting Screen Time,Excellent
+21-25,Male,Frequently,All of these,Yes,Educational Videos,> 6 hours,Agree,While Studying,Yes,Internet Access,No,Browsing Material,Sleep disturbance,Sometimes,None of Above,Excellent
+21-25,Male,Rarely,All of these,Yes,Educational Videos,> 6 hours,Neutral,Not Distracting,Yes,Internet Access,Only Partially,Reasarch,Headache,Sometimes,None of Above,Good
+21-25,Female,Sometimes,All of these,Yes,Study Planner,4-6 hours,Agree,Not Distracting,Yes,Internet Access,No,Reasarch,Sleep disturbance,Sometimes,None of Above,Good
+21-25,Male,Rarely,All of these,Yes,Educational Videos,2-4 hours,Strongly disagree,While Studying,Yes,Camera,Only Partially,Reasarch,Headache,Frequently,None of Above,Excellent
+21-25,Male,Sometimes,Social Media,Yes,Study Planner,4-6 hours,Agree,During Class Lectures,No,Internet Access,Only Partially,Reasarch,Sleep disturbance,Sometimes,None of Above,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,2-4 hours,Agree,During Class Lectures,Yes,Internet Access,Only Partially,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Agree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+21-25,Male,Sometimes,Social Media,Yes,Educational Videos,> 6 hours,Neutral,During Class Lectures,Yes,Internet Access,Yes,Accounting,Anxiety or Stress,Sometimes,Taking Break during prolonged use,Excellent
+21-25,Male,Frequently,Web-browsing,Yes,Study Planner,2-4 hours,Agree,During Exams,Yes,Calculator,Yes,Reasarch,Headache,Never,Limiting Screen Time,Excellent
+16-20,Female,Sometimes,All of these,Yes,Educational Videos,> 6 hours,Neutral,While Studying,Yes,Internet Access,Only Partially,Browsing Material,All of these,Sometimes,Using Blue light filter,Fair
+21-25,Male,Sometimes,All of these,Yes,Study Planner,2-4 hours,Agree,During Exams,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Excellent
+21-25,Male,Rarely,All of these,Yes,Educational Videos,2-4 hours,Agree,During Exams,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Good
+21-25,Male,Frequently,All of these,Yes,Productivity Tools,> 6 hours,Agree,Not Distracting,No,Internet Access,Yes,Browsing Material,All of these,Sometimes,Using Blue light filter,Excellent
+21-25,Male,Sometimes,All of these,Yes,Language,4-6 hours,Neutral,While Studying,Yes,Internet Access,No,Browsing Material,Sleep disturbance,Rarely,None of Above,Good
+21-25,Female,Sometimes,All of these,Yes,Educational Videos,> 6 hours,Agree,During Class Lectures,Yes,Notes Taking App,Yes,Browsing Material,Headache,Sometimes,Limiting Screen Time,Good
+26-30,Female,Frequently,All of these,Yes,Productivity Tools,4-6 hours,Strongly agree,While Studying,Yes,Internet Access,Yes,Reasarch,All of these,Frequently,None of Above,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,2-4 hours,Disagree,Not Distracting,Yes,Internet Access,Only Partially,Reasarch,Anxiety or Stress,Sometimes,Limiting Screen Time,Good
+21-25,Male,Frequently,All of these,Yes,Educational Videos,> 6 hours,Strongly disagree,During Class Lectures,No,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Using Blue light filter,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,2-4 hours,Strongly agree,Not Distracting,No,Internet Access,Yes,Reasarch,Anxiety or Stress,Rarely,Taking Break during prolonged use,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Neutral,While Studying,No,Internet Access,Only Partially,Reasarch,Sleep disturbance,Rarely,Limiting Screen Time,Fair
+21-25,Female,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Neutral,During Exams,Yes,Internet Access,No,Browsing Material,Headache,Rarely,Limiting Screen Time,Good
+21-25,Male,Rarely,Social Media,Yes,Study Planner,4-6 hours,Neutral,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Fair
+21-25,Male,Never,All of these,Yes,Educational Videos,< 2 hours,Agree,While Studying,Yes,Internet Access,Yes,Reasarch,Headache,Sometimes,Limiting Screen Time,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Neutral,While Studying,No,Internet Access,Yes,Browsing Material,All of these,Never,Using Blue light filter,Excellent
+21-25,Male,Never,Social Media,Yes,Language,< 2 hours,Strongly disagree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Headache,Rarely,None of Above,Good
+21-25,Male,Sometimes,All of these,Yes,Productivity Tools,4-6 hours,Disagree,During Class Lectures,Yes,Internet Access,Yes,Browsing Material,All of these,Rarely,Taking Break during prolonged use,Good
+21-25,Female,Frequently,All of these,Yes,Educational Videos,4-6 hours,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Headache,Sometimes,None of Above,Good
+21-25,Female,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Agree,During Class Lectures,No,Camera,No,Reasarch,Sleep disturbance,Sometimes,None of Above,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Agree,While Studying,No,Internet Access,Only Partially,Browsing Material,Anxiety or Stress,Never,Using Blue light filter,Good
+21-25,Male,Never,Social Media,Yes,Study Planner,> 6 hours,Strongly agree,Not Distracting,Yes,Internet Access,No,Reasarch,All of these,Rarely,Using Blue light filter,Excellent
+21-25,Male,Frequently,All of these,Yes,Study Planner,2-4 hours,Agree,While Studying,Yes,Internet Access,No,Reasarch,All of these,Rarely,Limiting Screen Time,Good
+31-35,Male,Never,All of these,No,Study Planner,< 2 hours,Neutral,Not Distracting,No,Calculator,Only Partially,Accounting,All of these,Never,None of Above,Excellent
+21-25,Male,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Agree,During Class Lectures,No,Notes Taking App,Yes,Reasarch,Headache,Sometimes,None of Above,Excellent
+21-25,Male,Frequently,All of these,Yes,Productivity Tools,4-6 hours,Disagree,During Class Lectures,Yes,Calculator,Yes,Browsing Material,All of these,Sometimes,Using Blue light filter,Excellent
+16-20,Male,Frequently,All of these,Yes,Educational Videos,> 6 hours,Neutral,While Studying,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Frequently,None of Above,Fair
+31-35,Male,Frequently,All of these,Yes,Productivity Tools,2-4 hours,Strongly disagree,While Studying,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Good
+16-20,Female,Never,Social Media,No,Language,> 6 hours,Strongly disagree,While Studying,Yes,Internet Access,Yes,Browsing Material,Anxiety or Stress,Sometimes,None of Above,Poor
+16-20,Male,Sometimes,Social Media,Yes,Language,> 6 hours,Neutral,Not Distracting,No,Internet Access,No,Reasarch,Anxiety or Stress,Never,None of Above,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,2-4 hours,Agree,Not Distracting,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+16-20,Male,Frequently,All of these,Yes,Educational Videos,2-4 hours,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+26-30,Male,Sometimes,All of these,Yes,Language,4-6 hours,Agree,During Exams,No,Camera,No,Accounting,Anxiety or Stress,Rarely,Taking Break during prolonged use,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Neutral,While Studying,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance,Sometimes,Taking Break during prolonged use,Good
+26-30,Male,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Agree,During Class Lectures,No,Notes Taking App,Yes,Accounting,All of these,Sometimes,Limiting Screen Time,Good
+21-25,Female,Sometimes,Social Media,Yes,Productivity Tools,4-6 hours,Neutral,While Studying,Yes,Internet Access,Yes,Reasarch,All of these,Frequently,Taking Break during prolonged use,Fair
+21-25,Female,Sometimes,,,,,,,,,,,,,,
+21-25,Female,Sometimes,All of these,Yes,Study Planner,> 6 hours,Strongly agree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,All of these,Sometimes,None of Above,Excellent
+21-25,Female,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Disagree,While Studying,No,Notes Taking App,Yes,Reasarch,Sleep disturbance,Never,Limiting Screen Time,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,> 6 hours,Neutral,Not Distracting,No,Internet Access,No,Reasarch,Headache,Sometimes,Taking Break during prolonged use,Excellent
+21-25,Female,Frequently,All of these,Yes,Educational Videos,4-6 hours,Agree,Not Distracting,Yes,Internet Access,Yes,Reasarch,All of these,Rarely,Taking Break during prolonged use,Good
+21-25,Male,Never,All of these,No,Study Planner,> 6 hours,Strongly disagree,During Class Lectures,Yes,Internet Access,No,Reasarch,Headache,Never,Using Blue light filter,Excellent
+21-25,Male,Sometimes,Social Media,Yes,Language,> 6 hours,Strongly disagree,Not Distracting,Yes,Internet Access,Only Partially,Reasarch,All of these,Never,Using Blue light filter,Excellent
+21-25,Male,Frequently,All of these,Yes,Language,4-6 hours,Agree,During Class Lectures,Yes,Internet Access,Yes,Accounting,All of these,Sometimes,Taking Break during prolonged use,Good
+21-25,Female,Frequently,All of these,Yes,Productivity Tools,2-4 hours,Strongly agree,Not Distracting,No,Internet Access,Yes,Reasarch,All of these,Frequently,Limiting Screen Time,Good
+26-30,Male,Sometimes,All of these,Yes,Productivity Tools,4-6 hours,Agree,While Studying,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance,Sometimes,Taking Break during prolonged use,Good
+16-20,Male,Never,Web-browsing,Yes,Language,2-4 hours,Strongly disagree,During Exams,Yes,Camera,Yes,Accounting,Anxiety or Stress,Rarely,Using Blue light filter,Excellent
+21-25,Female,Sometimes,All of these,Yes,Productivity Tools,2-4 hours,Strongly agree,While Studying,Yes,Camera,Only Partially,Browsing Material,Headache,Sometimes,Limiting Screen Time,Fair
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,2-4 hours,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Using Blue light filter,Good
+26-30,Male,Frequently,All of these,Yes,Study Planner,4-6 hours,Agree,During Class Lectures,Yes,Internet Access,,Accounting,Sleep disturbance,Sometimes,Using Blue light filter,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Disagree,While Studying,Yes,Camera,Yes,Accounting,Sleep disturbance,Sometimes,Taking Break during prolonged use,Fair
+26-30,Male,,Social Media,Yes,Language,< 2 hours,Agree,While Studying,No,Camera,No,Accounting,All of these,Never,Using Blue light filter,Good
+21-25,Male,Never,Social Media,Yes,Language,2-4 hours,Neutral,During Class Lectures,No,Calculator,Yes,Reasarch,All of these,Never,Limiting Screen Time,Good
+16-20,Male,Rarely,All of these,Yes,Study Planner,4-6 hours,Strongly agree,During Exams,Yes,Internet Access,No,Reasarch,All of these,Sometimes,Limiting Screen Time,Excellent
+31-35,Male,Sometimes,Social Media,Yes,Language,2-4 hours,Neutral,While Studying,Yes,Notes Taking App,Yes,Accounting,Sleep disturbance,Frequently,Limiting Screen Time,Fair
+16-20,Male,Sometimes,Social Media,Yes,Language,2-4 hours,Neutral,While Studying,Yes,Camera,Yes,Accounting,Headache,Frequently,Limiting Screen Time,Good
+26-30,Male,,Social Media,Yes,Study Planner,> 6 hours,Neutral,Not Distracting,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance,Never,Using Blue light filter,Excellent
+21-25,Male,Sometimes,Web-browsing,Yes,Educational Videos,2-4 hours,Neutral,During Class Lectures,Yes,Camera,Yes,Accounting,Anxiety or Stress,Rarely,Taking Break during prolonged use,Fair
+21-25,Male,Never,All of these,Yes,Educational Videos,4-6 hours,Disagree,During Class Lectures,Yes,Camera,Yes,Reasarch,Headache,Never,Using Blue light filter,Good
+26-30,Male,Rarely,Web-browsing,Yes,Language,> 6 hours,Agree,During Exams,No,Internet Access,Yes,Reasarch,Anxiety or Stress,Rarely,Limiting Screen Time,Good
+31-35,Male,Rarely,Web-browsing,Yes,Language,2-4 hours,,During Exams,Yes,Notes Taking App,No,Accounting,Sleep disturbance,Rarely,Taking Break during prolonged use,Fair
+21-25,Male,Never,Social Media,Yes,Educational Videos,2-4 hours,Agree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Headache,Never,Using Blue light filter,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Agree,Not Distracting,Yes,Internet Access,No,Browsing Material,All of these,Sometimes,None of Above,Excellent
+21-25,Male,Frequently,All of these,Yes,Productivity Tools,2-4 hours,Agree,Not Distracting,No,Internet Access,Yes,Reasarch,Anxiety or Stress,Sometimes,None of Above,Good
+21-25,Male,Frequently,All of these,Yes,Productivity Tools,> 6 hours,Strongly agree,Not Distracting,Yes,Internet Access,Only Partially,Browsing Material,All of these,Rarely,Taking Break during prolonged use,Good
+21-25,Male,Rarely,Messaging,Yes,Educational Videos,4-6 hours,Disagree,While Studying,Yes,Camera,Yes,Accounting,Sleep disturbance,Rarely,Using Blue light filter,Good
+21-25,Male,Rarely,All of these,Yes,,< 2 hours,Neutral,,Yes,Internet Access,Yes,Reasarch,Headache,Never,Using Blue light filter,Excellent
+21-25,Male,Sometimes,All of these,Yes,Study Planner,< 2 hours,Strongly disagree,Not Distracting,No,Internet Access,Only Partially,Browsing Material,All of these,Sometimes,None of Above,Excellent
+21-25,Male,Frequently,All of these,Yes,Educational Videos,> 6 hours,Agree,During Exams,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Excellent
+16-20,Female,Sometimes,All of these,Yes,Educational Videos,< 2 hours,Neutral,During Exams,Yes,Internet Access,Only Partially,Reasarch,All of these,Frequently,None of Above,Fair
+16-20,Female,Sometimes,Messaging,Yes,Educational Videos,2-4 hours,Neutral,While Studying,No,,Only Partially,Accounting,Anxiety or Stress,Rarely,Limiting Screen Time,Poor
+21-25,Male,Frequently,Messaging,Yes,Educational Videos,4-6 hours,Agree,During Exams,No,Internet Access,Yes,Reasarch,All of these,Sometimes,Taking Break during prolonged use,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,> 6 hours,Agree,During Exams,Yes,Internet Access,Yes,Accounting,Headache,Sometimes,Limiting Screen Time,Good
+21-25,Male,Frequently,All of these,Yes,Educational Videos,> 6 hours,Neutral,During Exams,Yes,Internet Access,Only Partially,Reasarch,Anxiety or Stress,Sometimes,Taking Break during prolonged use,Good
+21-25,Male,Frequently,All of these,Yes,Language,4-6 hours,Strongly agree,While Studying,No,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Good
+21-25,Male,Frequently,All of these,Yes,Educational Videos,4-6 hours,Agree,During Class Lectures,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+31-35,Male,Rarely,Messaging,,Productivity Tools,> 6 hours,Strongly disagree,Not Distracting,Yes,Notes Taking App,No,Accounting,All of these,Frequently,Using Blue light filter,Fair
+21-25,Male,Frequently,All of these,Yes,Educational Videos,2-4 hours,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Taking Break during prolonged use,Excellent
+16-20,Male,Sometimes,All of these,Yes,Study Planner,2-4 hours,Neutral,While Studying,Yes,Internet Access,Yes,Reasarch,Headache,Sometimes,Using Blue light filter,Good
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,> 6 hours,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Rarely,None of Above,Fair
+21-25,Male,Sometimes,All of these,No,Language,> 6 hours,Neutral,During Exams,Yes,Calculator,No,Browsing Material,Sleep disturbance,Rarely,Limiting Screen Time,Fair
+21-25,Female,Frequently,All of these,Yes,Educational Videos,4-6 hours,Neutral,Not Distracting,Yes,Camera,Yes,Reasarch,Headache,Rarely,Taking Break during prolonged use,Fair
+16-20,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Neutral,While Studying,Yes,Internet Access,No,Reasarch,All of these,Sometimes,Limiting Screen Time,Excellent
+21-25,Male,Sometimes,All of these,Yes,Educational Videos,> 6 hours,Agree,During Exams,Yes,Internet Access,Yes,Reasarch,Headache,Sometimes,Taking Break during prolonged use,Excellent
+16-20,Male,Sometimes,Social Media,Yes,Educational Videos,4-6 hours,Strongly agree,During Class Lectures,No,Notes Taking App,No,Reasarch,Anxiety or Stress,Sometimes,Taking Break during prolonged use,Good
+16-20,Male,Sometimes,All of these,Yes,Educational Videos,2-4 hours,Agree,While Studying,No,Internet Access,No,Reasarch,Headache,Never,Limiting Screen Time,Excellent
+16-20,Male,Sometimes,All of these,Yes,Educational Videos,4-6 hours,Agree,During Exams,No,Internet Access,Yes,Reasarch,Headache,Rarely,Limiting Screen Time,Excellent
+21-25,Female,Sometimes,Social Media,Yes,Study Planner,4-6 hours,Neutral,During Exams,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Excellent
